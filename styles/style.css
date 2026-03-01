@@ -226,8 +226,7 @@ video {
   position: sticky;
   bottom: 0;
   background-color: #000;
-  flex-shrink: 0; 
-  inline-size: 100%
+  flex-shrink: 0;
 }
 
 .content__list-container::-webkit-scrollbar {
