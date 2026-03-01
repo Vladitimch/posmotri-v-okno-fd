@@ -215,7 +215,7 @@ video {
   color: #545050;
 }
 
-.content__list-container{
+.content__list-container {
   block-size: 298px;
   overflow-y: auto;
   position: relative;
@@ -233,7 +233,7 @@ video {
   width: 2px;
 }
 
-.content__list-container::-webkit-scrollbar-thumb{
+.content__list-container::-webkit-scrollbar-thumb {
   background-color: #FFF;
 }
 
